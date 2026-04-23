@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+<<<<<<< Updated upstream
+
+env/
+
+# Env
+.env
+=======
+.venv/
+venv/
+>>>>>>> Stashed changes
+
+# Uploads / exports / logs (données locales)
+uploads/*
+exports/*
+logs/*
+!uploads/.gitkeep
+!exports/.gitkeep
+!logs/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
