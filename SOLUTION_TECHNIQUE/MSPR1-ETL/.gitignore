@@ -2,16 +2,13 @@
 __pycache__/
 *.py[cod]
 *.pyo
-<<<<<<< Updated upstream
 
 env/
 
-# Env
-.env
-=======
+# .env
+
 .venv/
 venv/
->>>>>>> Stashed changes
 
 # Uploads / exports / logs (données locales)
 uploads/*
