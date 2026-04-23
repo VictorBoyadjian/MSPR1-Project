@@ -1,0 +1,23 @@
+name,calories_kcal,proteins_g,carbs_g,fats_g,fiber_g,sugars_g,sodium_mg,meal_type
+Poulet grillé,165,31,0,3.6,0,0,74,lunch
+Salade César,180,12,10,11,3,2,450,dinner
+Riz complet,130,2.7,28,0.3,1.8,0.4,1,lunch
+  Pâtes Bolognaise  , 220 , 12 , 30 , 7 , 2 , 3 , 500 , dinner
+Poulet grillé,165,31,0,3.6,0,0,74,lunch
+Steak frites,5000,40,60,30,2,1,800,lunch
+Yaourt nature,60,4,7,1.5,0,7,50,brunch
+Pomme,52,0.3,14,0.2,2.4,10,1,snack
+Chips,536,7,53,35,4,0.5,600,snack
+Saumon fumé,200,25,0,11,0,0,1500,dinner
+Banane,89,1.1,23,0.3,2.6,12,1,breakfast
+Smoothie vert,90,2,18,1,3,12,20,BREAKFAST
+Omelette,154,11,1,12,0,1,300,Lunch
+Pizza Margherita,250,11,30,10,2,3,600,dinner
+,,,,,,,,
+Croissant,406,8.2,45,21,2.3,11,300,breakfast
+Soupe miso,40,3,5,1,1,2,900,side
+Hamburger,295,17,24,17,1.3,5,550,other
+Glace vanille,207,3.5,24,11,0,21,80,snack
+Tofu sauté,144,15,3,8,2,1,300,dinner
+Aliment négatif,-50,10,20,5,2,1,100,lunch
+Ultra sodium,100,5,10,3,1,1,99999,dinner
