@@ -14,4 +14,6 @@ Pour lancer le projet, lancer le fichier .bat ou .sh, en ayant docker desktop la
 
 <img width="844" height="557" alt="image" src="https://github.com/user-attachments/assets/16950137-9b5e-4fe4-8264-bc438abd860e" />
 <img width="908" height="577" alt="image" src="https://github.com/user-attachments/assets/ef78bdb3-2c66-40b0-a9fc-ac148c9d8dac" />
+<img width="350" height="274" alt="image" src="https://github.com/user-attachments/assets/42fc5dcf-a635-47a1-8f12-16ecbaaf24dd" />
+
 
