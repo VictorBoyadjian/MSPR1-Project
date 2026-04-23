@@ -9,3 +9,5 @@ Structure technique:
 - ETL Python -> injection de données depuis des fichiers csv
 - Interface admin React -> CRUD des tables principale de la base de données et import des csv pour l'ETL
 - Graphiques et stats Grafana
+
+Pour lancer le projet, lancer le fichier .bat ou .sh, en ayant docker desktop lancé sur votre poste.
